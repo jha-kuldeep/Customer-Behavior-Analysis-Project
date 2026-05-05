@@ -18,7 +18,7 @@ Retail businesses often struggle to:
 - Optimize product and marketing strategies  
 
 This project addresses these challenges using data-driven insights.  
-(Refer to detailed problem breakdown in project report) :contentReference[oaicite:0]{index=0}  
+(Refer to detailed problem breakdown in project report)   
 
 ---
 
@@ -38,7 +38,7 @@ This project addresses these challenges using data-driven insights.
   - Product Info (Category, Item, Size)
   - Behavior (Discounts, Subscription, Payment Method)
 
-📌 The dataset enables customer segmentation and business decision-making. :contentReference[oaicite:1]{index=1}  
+📌 The dataset enables customer segmentation and business decision-making. 
 
 ---
 
@@ -51,7 +51,7 @@ This project addresses these challenges using data-driven insights.
 
 📌 Example:  
 - Clothing → Missing size filled using mode  
-- Electronics → Size marked as "Not Applicable" :contentReference[oaicite:2]{index=2}  
+- Electronics → Size marked as "Not Applicable"  
 
 ---
 
@@ -65,7 +65,7 @@ Performed advanced SQL queries to answer business questions:
 - Customer segmentation (New / Returning / Loyal)  
 
 📌 Example Insight:  
-Electronics category contributes the highest revenue (see report page 8). :contentReference[oaicite:3]{index=3}  
+Electronics category contributes the highest revenue.  
 
 ---
 
@@ -105,10 +105,10 @@ Includes:
 ## 📷 Dashboard Preview
 
 ### 🔹 Overview Dashboard
-![Dashboard 1](Dashboard_Snap_1.png)
+
 
 ### 🔹 Product & Location Dashboard
-![Dashboard 2](Dashboard_Snap_2.png)
+
 
 ---
 
