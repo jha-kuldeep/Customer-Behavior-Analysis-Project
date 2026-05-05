@@ -132,12 +132,8 @@ This project enables businesses to:
 ---
 
 ## 📁 Project Structure
-├── data/
-├── notebooks/ # Python EDA & Cleaning
-├── sql/ # SQL Queries
-├── dashboard/ # Power BI files (.pbix)
-├── images/ # Dashboard screenshots
-└── README.md
+<img width="263" height="128" alt="image" src="https://github.com/user-attachments/assets/33e717fa-f956-4ac9-978b-bbd2c19c5919" />
+
 
 
 ---
