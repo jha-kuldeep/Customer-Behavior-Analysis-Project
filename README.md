@@ -104,10 +104,11 @@ Includes:
 
 ## 📷 Dashboard Preview
 
-### 🔹 Overview Dashboard
-
+### 🔹 Revenue Analysis Dashboard
+<img width="691" height="380" alt="Dashboard_Snap_1" src="https://github.com/user-attachments/assets/dd69506f-9fa5-44cc-97bf-5c6e9c74f195" />
 
 ### 🔹 Product & Location Dashboard
+<img width="689" height="380" alt="Dashboard_Snap_2" src="https://github.com/user-attachments/assets/0a5dbca4-ede2-4629-ac37-ea07514c744d" />
 
 
 ---
